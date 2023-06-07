@@ -1,0 +1,22 @@
+cmd열고 
+cd C:\carinterface
+pyuic5 -x "C:/carinterface/aaa.ui" -d "C:/carinterface/abc.py"
+pyuic5 -x "C:/carinterface/button.ui" -o "C:/carinterface/buttonui.py"
+
+
+        pushButton_1.clicked.connect(self.method_1)
+        pushButton_2.clicked.connect(self.method_2)
+        pushButton_3.clicked.connect(self.method_3)
+        pushButton_4.clicked.connect(self.method_4)
+        pushButton_5.clicked.connect(self.method_5)
+        pushButton_6.clicked.connect(self.method_6)
+        pushButton_7.clicked.connect(self.method_7)
+        pushButton_8.clicked.connect(self.method_8)
+        pushButton_9.clicked.connect(self.method_9)
+        pushButton_0.clicked.connect(self.method_0)
+        pushButton_arrow.clicked.connect(self.method_arrow)
+        pushButton_search.clicked.connect(self.method_search)
+        
+    def method_1(self):
+        text=self.label.text()
+        self.label.setText(text+"1")
