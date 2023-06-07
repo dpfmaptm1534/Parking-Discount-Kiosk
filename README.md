@@ -3,7 +3,7 @@
 ## 주차감면 키오스크
 
 ![공모전t](https://github.com/dpfmaptm1534/Parking-Discount-Kiosk/assets/75537734/a4907f3d-b9aa-491e-bba9-ecb7d38eb35a)
-
+![키오스크사진](https://github.com/dpfmaptm1534/Parking-Discount-Kiosk/assets/75537734/2df14c60-d342-4ba2-84d5-16682768b00e)
 ![키오스크](https://github.com/dpfmaptm1534/Parking-Discount-Kiosk/assets/75537734/e0886e82-2cbb-4e78-88ce-b8f8f35602a1)
 
 파이썬 및 PyQt5를 통해 제작된 셀레니움 기반 UI프로그램으로, 주차감면 관리자 페이지와 연동하여 직관적인 디자인과 간단한 조작만으로 민원인이 직접 주차감면 신청을 할 수 있도록 한 키오스크이다.
